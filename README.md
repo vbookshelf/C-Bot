@@ -13,16 +13,12 @@ https://c-bot.woza.work/
 <br>
 
 <img src="images/image4.png" alt="App mobile screenshot" height="500">
-
-<br>
-
-<img src="images/image3.png" alt="App desktop screenshot" height="500">
 <p>Minimalist mobile optimized UI</p>
 
 <br>
 
-<img src="images/image5.png" alt="App desktop screenshot" height="500">
-<p>Formality, Region and Gender settings</p>
+<img src="images/image3.png" alt="App desktop screenshot" height="500">
+<p>Formality and Pinyin settings</p>
 
 <br>
 
