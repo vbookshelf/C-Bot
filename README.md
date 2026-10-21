@@ -29,6 +29,7 @@ https://c-bot.woza.work/
 
 ## Quick Info
 - Supports both voice and text inputs
+- Includes Pinyin
 - Mobile optimized web app
 - Minimalist and visually calm UI design
 - Frontend: Html, CSS, Javascript
