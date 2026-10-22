@@ -1,5 +1,5 @@
 # C-Bot - Practice Chinese Conversation
-Chinese Bot (C-Bot) is a free AI powered chatbot for practicing Mandarin Chinese conversation.
+Chinese Bot (C-Bot) is a free AI powered chatbot for practicing Mandarin Chinese conversation, with Pinyin support.
 
 <br>
 
